@@ -1,5 +1,5 @@
 package puppy
 
-func mul(x,y int) int {
+func Mul(x,y int) int {
 	return x*y
 }
